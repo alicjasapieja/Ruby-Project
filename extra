@@ -1,0 +1,2 @@
+   puts "Your origin is: #{json["country"][0]["country_id"]}"
+        puts "The probability is: #{json["country"][0]["probability"]}"
